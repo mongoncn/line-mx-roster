@@ -1,0 +1,7 @@
+# 运行时生成的数据与私密配置，不要提交
+server/env
+server/data.json
+server/data.json.tmp
+server/tokens.json
+server/access.log
+.DS_Store
